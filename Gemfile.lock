@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    slugify (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.16.3)
+    rake (13.2.1)
+
+PLATFORMS
+  arm64-darwin-22
+  ruby
+
+DEPENDENCIES
+  ffi
+  rake (~> 13.0)
+  slugify!
+
+BUNDLED WITH
+   2.5.4
