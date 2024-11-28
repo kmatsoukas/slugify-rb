@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "slugify"
   spec.version = Slugify::VERSION
   spec.authors = ["Kostas Matsoukas"]
-  spec.email = ["kmatsoukas@rapiddot.com"]
+  spec.email = ["kmatsoukas@me.com"]
 
   spec.summary = "Gem that can be used to slugify strings"
   spec.description = "Slugify provided strings to be used in URLs."
